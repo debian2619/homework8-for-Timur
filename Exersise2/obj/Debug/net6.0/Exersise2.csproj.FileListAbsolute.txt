@@ -1,0 +1,15 @@
+C:\Users\משתמש\Desktop\homework8 for Timur\Exersises\Exersise2\obj\Debug\net6.0\Exersise2.csproj.AssemblyReference.cache
+C:\Users\משתמש\Desktop\homework8 for Timur\Exersises\Exersise2\obj\Debug\net6.0\Exersise2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\משתמש\Desktop\homework8 for Timur\Exersises\Exersise2\obj\Debug\net6.0\Exersise2.AssemblyInfoInputs.cache
+C:\Users\משתמש\Desktop\homework8 for Timur\Exersises\Exersise2\obj\Debug\net6.0\Exersise2.AssemblyInfo.cs
+C:\Users\משתמש\Desktop\homework8 for Timur\Exersises\Exersise2\obj\Debug\net6.0\Exersise2.csproj.CoreCompileInputs.cache
+C:\Users\משתמש\Desktop\homework8 for Timur\Exersises\Exersise2\bin\Debug\net6.0\Exersise2.exe
+C:\Users\משתמש\Desktop\homework8 for Timur\Exersises\Exersise2\bin\Debug\net6.0\Exersise2.deps.json
+C:\Users\משתמש\Desktop\homework8 for Timur\Exersises\Exersise2\bin\Debug\net6.0\Exersise2.runtimeconfig.json
+C:\Users\משתמש\Desktop\homework8 for Timur\Exersises\Exersise2\bin\Debug\net6.0\Exersise2.dll
+C:\Users\משתמש\Desktop\homework8 for Timur\Exersises\Exersise2\bin\Debug\net6.0\Exersise2.pdb
+C:\Users\משתמש\Desktop\homework8 for Timur\Exersises\Exersise2\obj\Debug\net6.0\Exersise2.dll
+C:\Users\משתמש\Desktop\homework8 for Timur\Exersises\Exersise2\obj\Debug\net6.0\refint\Exersise2.dll
+C:\Users\משתמש\Desktop\homework8 for Timur\Exersises\Exersise2\obj\Debug\net6.0\Exersise2.pdb
+C:\Users\משתמש\Desktop\homework8 for Timur\Exersises\Exersise2\obj\Debug\net6.0\Exersise2.genruntimeconfig.cache
+C:\Users\משתמש\Desktop\homework8 for Timur\Exersises\Exersise2\obj\Debug\net6.0\ref\Exersise2.dll
